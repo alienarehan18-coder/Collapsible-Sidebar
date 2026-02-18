@@ -1,9 +1,9 @@
-Collapsible Sidebar
-Description:
+**Collapsible Sidebar**
+**Description:**
 
 This project is a responsive collapsible sidebar built using HTML, CSS, and JavaScript. The sidebar includes a logo section and navigation links, and it can be opened or closed using a toggle button. Smooth sliding animation is implemented using CSS transitions.
 
-Features:
+**Features:**
 
 Toggle sidebar open/close functionality
 
@@ -13,7 +13,7 @@ Responsive design for mobile and desktop
 
 Clean and modern layout
 
-Technologies Used:
+**Technologies Used:**
 
 HTML
 
